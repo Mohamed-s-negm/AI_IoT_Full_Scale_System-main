@@ -1,9 +1,0 @@
-{
-    "$dtId": "Hotel1",
-    "$metadata": {
-        "$model": "dtmi:example:Hotel;1"
-    },
-    "Name": "Smart Hotel",
-    "Address": "123 IoT Street",
-    "NumberOfFloors": 4
-} 
